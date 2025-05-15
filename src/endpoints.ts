@@ -1,0 +1,1 @@
+export const sharksData = "https://raw.githubusercontent.com/alexanastas/sharks/refs/heads/main/sharks.json"
